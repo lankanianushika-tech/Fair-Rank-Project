@@ -1,0 +1,11 @@
+candidate_id,full_name,email,phone,gender,experience_years,education_level,certifications,resume_text
+C001,Alice Smith,alice.smith@example.com,+1-555-0101,Female,5.0,Bachelor,AWS Certified Developer,"Experienced Senior Backend Engineer proficient in python, sql, rest api, data structures, algorithms, aws, docker, kubernetes, microservices and pytest. Strong background in system design."
+C002,Bob Johnson,bob.j@domain.org,+1-555-0102,Male,2.0,Bachelor,,"Software developer with skills in py, sql, rest api, git, agile, reactjs, and nodejs."
+C003,Charlie Williams,charlie.w@tech.net,+1-555-0103,Non-Binary,4.5,Master,AWS Certified Developer,"Data science specialist experienced in python, machine learning, ml, sql, tensorflow, pytorch, nlp, data analysis, and deep learning."
+C004,Diana Brown,diana.b@corp.com,+1-555-0104,Female,6.0,Doctorate,,"Research engineer with expertise in machine learning, python, algorithms, c++, deep learning, pytorch, and system design."
+C005,Evan Davis,evan.d@startup.io,+1-555-0105,Male,1.0,High School,,"Junior programmer proficient in python, javascript, html, css, git, and rest api."
+C006,Fiona Miller,fiona.m@service.com,+1-555-0106,Female,3.5,Bachelor,AWS Certified Developer,"Full stack developer with python, java, sql, rest api, postgres, docker, and aws experience."
+C007,George Wilson,george.w@mail.org,+1-555-0107,Male,7.0,Master,,"Lead architect skilled in data structures, algorithms, system design, python, java, microservices, k8s, and ci/cd."
+C008,Hannah Taylor,hannah.t@company.com,+1-555-0108,Female,4.0,Bachelor,,"Backend software developer with experience in python3, sql, rest api, data structures, algorithms, docker, and pytest."
+C009,Ian Anderson,ian.a@provider.net,+1-555-0109,Male,3.0,Master,AWS Certified Developer,"Cloud engineer with aws, azure, docker, kubernetes, python, sql, and ci/cd skills."
+C010,Julia Thomas,julia.t@web.org,+1-555-0110,Female,5.5,Bachelor,,"ML Engineer proficient in python, machine learning, data science, sql, tf, and nlp."
