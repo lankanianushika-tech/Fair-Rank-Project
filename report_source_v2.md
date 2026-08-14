@@ -3,8 +3,8 @@
 
 **Module:** COM713 Advanced Data Structures and Algorithms\
 **Assessment:** Data Structure & Algorithm with Python — Part 2 (Individual Work, 30%)\
-**Student name:** Jhons\
-**Student email:** jhonerobert890@gmail.com\
+**Student name:** W A Lankani Anushika Bandara
+**Student email:** anushika7lankani@gmail.com
 **Deadline:** 16 August 2026\
 **Dataset Source:** https://www.kaggle.com/datasets/snehaananthan/resume-dataset
 
